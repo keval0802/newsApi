@@ -1,5 +1,4 @@
 import React from 'react'
-
 function ApiProps({ data, handleurlToImage }) {
     return (
         <div>
